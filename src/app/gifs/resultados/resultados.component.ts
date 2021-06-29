@@ -4,8 +4,7 @@ import { GifsService } from '../services/gifs.service';
 @Component({
   selector: 'app-resultados',
   templateUrl: './resultados.component.html',
-  styles: [
-  ]
+  styleUrls: ['./resultados.component.css']
 })
 export class ResultadosComponent{
 
